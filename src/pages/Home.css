@@ -1,0 +1,39 @@
+body{
+    background-image: linear-gradient(to right, #17e6f0, #00caf8, #00abfd, #0089f7, #0061e0, #2653d7, #3944cd, #4733c2, #6142cf, #7851db, #8d61e8, #a271f5);
+
+}
+
+.mono{
+    background-image: url(/src/img/Comp_1_00001.png);
+    background-position: center center ;
+    
+}
+
+
+.contenedor{
+    background-color: white;
+}
+
+.título{
+    margin-top: -5px;
+    color: #8d61e8;    
+
+}
+
+.formulario{
+    background-color: white;
+
+}
+
+.ti{
+    background-color: white;
+}
+
+.filas{
+    margin-top: 100px;
+}
+
+
+
+
+
